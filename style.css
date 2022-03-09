@@ -1,0 +1,18 @@
+.moon{
+    color: yellow;
+    size: 20px;
+}
+.big_size{
+    font-size: 40px;
+}
+body{
+    background: rgb(48, 48, 92);
+}
+#itemisto{
+    color: white;
+    background-color: black;
+}
+
+ul{
+    border: dashed white 4px;
+}
